@@ -15,3 +15,7 @@
 [Шифровка из тимуса](https://acm.timus.ru/problem.aspx?space=1&num=1654)
 
 [Монобильярд из тимуса](https://acm.timus.ru/problem.aspx?space=1&num=1494)
+
+## Сет, мап
+
+[В КФ-контесте](https://codeforces.com/contestInvitation/ff6da28eb802a111e6146ee5a0bf4145e3470e89) задачи A-E
