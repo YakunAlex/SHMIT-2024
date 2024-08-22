@@ -19,3 +19,11 @@
 ## Сет, мап
 
 [В КФ-контесте](https://codeforces.com/contestInvitation/ff6da28eb802a111e6146ee5a0bf4145e3470e89) задачи A-E
+
+## Префиксные суммы
+
+[Отсюда](https://codeforces.com/edu/course/3/lesson/10/2/practice) обе задачи
+
+Из КФ-контеста задачу Z
+
+[Отсюда](https://codeforces.com/edu/course/3/lesson/10/3/practice) первую задачу
