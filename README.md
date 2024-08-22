@@ -24,6 +24,8 @@
 
 [Отсюда](https://codeforces.com/edu/course/3/lesson/10/2/practice) обе задачи
 
-Из КФ-контеста задачу Z
+Из КФ-контеста задачи I, J
 
-[Отсюда](https://codeforces.com/edu/course/3/lesson/10/3/practice) первую задачу
+*Из КФ-контеста задачу J за O(n)
+
+[*Отсюда](https://codeforces.com/edu/course/3/lesson/10/3/practice) обе задачу
