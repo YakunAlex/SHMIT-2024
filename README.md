@@ -1,3 +1,5 @@
+# [Финальный контест](https://codeforces.com/contestInvitation/9a66b0b941a60754ed64fa2553118ffcafe4195f)
+
 # Задачи по темам
 
 ## Классы
